@@ -60,19 +60,22 @@ color: whitesmoke;
     footer {
         background-image: url("https://media.istockphoto.com/vectors/celebration-festival-background-with-helium-balloons-greeting-banner-vector-id1165995531?k=20&m=1165995531&s=170667a&w=0&h=RqS8QvAwzUS47D569TdV53xwj4ReQYzTFu9syhx9eI0=");
         background-size: cover;
-        height: 125px;
+        height: 150px;
         font-size: larger;
-        text-shadow: 0 0 20px rgb(209, 182, 29), 0 0 20px #c7ca0c, 0 0 20px #e2ee38, 0 0 30px #af991c, 0 0 30px #565e0f, 0 0 30px #c2c452, 0 0 40px #b6bd7c;
         font-family: 'Rock Salt', cursive;
-        padding-top: 20px;
-        color: gold;
+        text-shadow: 0 0 20px rgb(209, 29, 29), 0 0 20px #9d32ac, 0 0 20px #ee38b7, 0 0 30px #af1c1c, 0 0 30px #5e0f36, 0 0 30px #9e1028, 0 0 40px #440508 !important;
+        color: rgb(129, 25, 25) !important;
+        padding-top: 30px;
     }
     
     /* Styling the lists */
     li {
-        color: black;
+        color: black !important;
         padding: 3px;
         font-weight: bold;
+        font-size: x-large;
+        font-family: 'Barlow Semi Condensed', sans-serif !important;
+        text-shadow: none !important;
     }
     
     /* When you hover over a list item it changes background color and font */
@@ -83,4 +86,16 @@ color: whitesmoke;
     li a:link {
         color: rgb(219, 206, 23) !important;
       }
-  
+ .d-block {
+      height: 600px !important;
+      width: 600px !important;
+      justify-content: center !important;
+      margin-left: auto;
+      margin-right: auto;
+      align-items: center !important;
+      margin-bottom: 20px!important;
+      margin-top: 20px!important;
+  }
+.carousel-indicators {
+    height: 500px;
+}
