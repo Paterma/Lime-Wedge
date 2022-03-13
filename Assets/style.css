@@ -24,10 +24,11 @@ color: whitesmoke;
         justify-content: center;
         font-size: xx-large;
          text-align: center;
-         color: gold;
+         color: rgb(187, 255, 0);
     }
     #firstBoxes {
         text-align: center;
+        font-weight: bold;
         margin-top: 80px;
         margin-bottom: 80px;
         margin-left: 10px;
@@ -36,7 +37,7 @@ color: whitesmoke;
         padding: 15px;
         background-image: url("https://thumbor.thedailymeal.com/TjOELH_4GC4Ws_ArBBWaw4pk6Yw=/870x565/filters:focal(833x459:834x460)/https://www.thedailymeal.com/sites/default/files/story/2017/tequilashots.JPG");
         background-size: cover;
-        color: white;
+        color: rgb(242, 255, 55);
         text-shadow: 0 0 20px rgb(209, 29, 29), 0 0 20px #9d32ac, 0 0 20px #ee38b7, 0 0 30px #af1c1c, 0 0 30px #5e0f36, 0 0 30px #9e1028, 0 0 40px #440508;
     }
     
@@ -60,7 +61,7 @@ color: whitesmoke;
     footer {
         background-image: url("https://media.istockphoto.com/vectors/celebration-festival-background-with-helium-balloons-greeting-banner-vector-id1165995531?k=20&m=1165995531&s=170667a&w=0&h=RqS8QvAwzUS47D569TdV53xwj4ReQYzTFu9syhx9eI0=");
         background-size: cover;
-        height: 150px;
+        height: 175px;
         font-size: larger;
         font-family: 'Rock Salt', cursive;
         text-shadow: 0 0 20px rgb(209, 29, 29), 0 0 20px #9d32ac, 0 0 20px #ee38b7, 0 0 30px #af1c1c, 0 0 30px #5e0f36, 0 0 30px #9e1028, 0 0 40px #440508 !important;
